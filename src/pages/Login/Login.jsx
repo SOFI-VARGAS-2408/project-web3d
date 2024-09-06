@@ -20,7 +20,6 @@ export default function Login() {
 
     useEffect(() => {
         observeAuthState();
-
     }, [observeAuthState,]);
 
     useEffect(()=>{

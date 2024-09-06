@@ -57,10 +57,3 @@ button {
     transform: scale(1.05);
 }
 
-/* Estilo de fondo temático de agua */
-.water-theme {
-    background: url('https://example.com/water-background.jpg') no-repeat center center/cover;
-    border-radius: 20px;
-    padding: 20px;
-    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.2);
-}
